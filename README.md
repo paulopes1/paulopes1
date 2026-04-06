@@ -1,120 +1,125 @@
-# 👨‍💻 Paulo Lopes
+<h1 align="center">
+  Hi, I'm Paulo Lopes
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h1>
 
-**`Backend Developer`** 
+<p align="center">
+  <b>Backend Developer · Software Engineering Student at FIAP · São Paulo, BR 🇧🇷</b>
+</p>
 
-My name is Paulo Lopes, I am 19 years old and I was born in São Paulo. I finished high school at Colégio Salgueiro, studied for 9 months at Alonzo and Tracy Mouring Senior High School (USA) and for 6 months at Lambrick Park High School (Canada). I am currently studying Software Engineering at Fiap. I seek to explore technology, acquire continuous learning and apply my skills towards creativity, collaboration and effective communication.
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-lopes-5bb797266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:paulolopesplj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-#
+---
 
-### 🤖 Languages and Technologies
+## 👨‍💻 About Me
 
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSHARP" 
-    title="CSHARP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<br/>
-<br/>
+Backend developer with hands-on experience building REST APIs, containerized applications, and scalable systems across multiple languages and frameworks. Currently pursuing a degree in **Software Engineering at FIAP**.
 
-### 📊 Estatísticas
+- 🌍 Lived and studied abroad — **USA** and **Canada** — fluent in English
+- 🔧 Focused on backend development: REST APIs, databases, Docker, and clean architecture
+- 🚀 Comfortable working across different stacks: Python, Java, and C# / .NET
+- 🤝 Open to collaborations, internships, and junior developer opportunities
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=paulopes1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:8px"/>
+  <img alt="Java" title="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:8px"/>
+  <img alt="C#" title="C#" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:8px"/>
+  <img alt="JavaScript" title="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:8px"/>
+  <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:8px"/>
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopes1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### Backend & Infrastructure
+<p>
+  <img alt="Django" title="Django" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="padding-right:8px"/>
+  <img alt="Spring Boot" title="Spring Boot" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:8px"/>
+  <img alt=".NET" title=".NET" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:8px"/>
+  <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:8px"/>
+  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:8px"/>
+  <img alt="MySQL" title="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:8px"/>
+  <img alt="Git" title="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:8px"/>
+</p>
 
+### Frontend
+<p>
+  <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:8px"/>
+  <img alt="HTML5" title="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:8px"/>
+  <img alt="CSS3" title="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:8px"/>
+  <img alt="Tailwind" title="Tailwind" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:8px"/>
+  <img alt="Bootstrap" title="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="padding-right:8px"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### [Recipe App API](https://github.com/paulopes1/recipe-app-api) · Python
+> Production-ready REST API for recipe management — full backend with real deploy configuration.
+
+`Python` `Django REST Framework` `PostgreSQL` `Docker` `nginx` `uWSGI`
+
+- 🔐 Token-based user authentication
+- 🍽️ Full CRUD for recipes, tags and ingredients with filtering
+- 🖼️ Image upload via multipart form
+- 📄 Auto-generated Swagger docs (OpenAPI 3)
+- 🐳 Dockerized with uWSGI + nginx for production deploy
+- ✅ Automated tests
+
+---
+
+### [FutureOfWork API](https://github.com/paulopes1/FutureOfWork) · C# / .NET
+> RESTful API for managing professionals and job opportunities, with intelligent query support.
+
+`C#` `.NET 8` `Entity Framework Core` `SQL Server` `Swagger` `API Versioning`
+
+- 👔 CRUD for professionals and work opportunities
+- 🔄 API versioning (v1 and v2)
+- 📄 Full Swagger / OpenAPI 3 documentation
+- 🏗️ Layered architecture with EF Core migrations
+
+---
+
+### [FutureOfWork WebServices](https://github.com/paulopes1/FutureOfWork_WebServices) · Java
+> Authentication and user management service with JWT security, built following SOA principles.
+
+`Java 17` `Spring Boot` `Spring Security` `JWT` `BCrypt` `Maven`
+
+- 🔐 JWT token generation and validation
+- 👥 User registration with ADMIN and USER roles
+- 🔒 BCrypt password encryption
+- 🧩 Ports & Adapters architecture (DTOs, Controllers, Services, Repositories)
+- ⚠️ Global exception handling
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    alt="GitHub Stats"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=paulopes1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
+  />
+  <img
+    alt="Top Languages"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopes1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to internship and junior developer opportunities — feel free to reach out! 🙌</i>
 </p>
