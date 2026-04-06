@@ -103,23 +103,6 @@ Backend developer with hands-on experience building REST APIs, containerized app
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=paulopes1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
-  />
-  <img
-    alt="Top Languages"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopes1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
-  />
-</p>
-
----
-
 <p align="center">
   <i>Open to internship and junior developer opportunities — feel free to reach out! 🙌</i>
 </p>
