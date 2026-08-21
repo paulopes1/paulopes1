@@ -45,6 +45,7 @@ Backend developer with hands-on experience building REST APIs, containerized app
   <img alt="Django" title="Django" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="padding-right:8px"/>
   <img alt="Spring Boot" title="Spring Boot" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:8px"/>
   <img alt=".NET" title=".NET" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:8px"/>
+  <img alt="NestJS" title="NestJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:8px"/>
   <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:8px"/>
   <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:8px"/>
   <img alt="MySQL" title="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:8px"/>
@@ -54,6 +55,7 @@ Backend developer with hands-on experience building REST APIs, containerized app
 ### Frontend
 <p>
   <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:8px"/>
+  <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:8px"/>
   <img alt="HTML5" title="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:8px"/>
   <img alt="CSS3" title="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:8px"/>
   <img alt="Tailwind" title="Tailwind" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:8px"/>
@@ -63,6 +65,19 @@ Backend developer with hands-on experience building REST APIs, containerized app
 ---
 
 ## 🚀 Projects
+
+### [Spotly AI](https://github.com/paulopes1/spotly) · TypeScript / Full-stack + AI
+> AI-powered platform that helps entrepreneurs choose the best commercial location for their business — natural-language search, a deterministic scoring engine and AI-generated insights on an interactive map.
+
+`TypeScript` `Next.js 14` `NestJS` `PostgreSQL` `TypeORM` `OpenAI GPT-4o` `Tailwind` `Mapbox`
+
+- 🗣️ Natural-language search — GPT-4o extracts structured variables (business type, neighborhood, budget)
+- 🧮 Deterministic 0–100% compatibility score, weighted per business type + geographic proximity factor
+- 🤖 AI-written pros & cons per property, with a deterministic fallback when the API is unavailable
+- 🗺️ Interactive map and a neighborhood "appreciation sensor" based on real urban infrastructure projects
+- 🔐 JWT auth with rotating refresh tokens, saved properties and search-history dashboard
+
+---
 
 ### [Recipe App API](https://github.com/paulopes1/recipe-app-api) · Python
 > Production-ready REST API for recipe management — full backend with real deploy configuration.
@@ -75,18 +90,6 @@ Backend developer with hands-on experience building REST APIs, containerized app
 - 📄 Auto-generated Swagger docs (OpenAPI 3)
 - 🐳 Dockerized with uWSGI + nginx for production deploy
 - ✅ Automated tests
-
----
-
-### [FutureOfWork API](https://github.com/paulopes1/FutureOfWork) · C# / .NET
-> RESTful API for managing professionals and job opportunities, with intelligent query support.
-
-`C#` `.NET 8` `Entity Framework Core` `SQL Server` `Swagger` `API Versioning`
-
-- 👔 CRUD for professionals and work opportunities
-- 🔄 API versioning (v1 and v2)
-- 📄 Full Swagger / OpenAPI 3 documentation
-- 🏗️ Layered architecture with EF Core migrations
 
 ---
 
@@ -106,3 +109,5 @@ Backend developer with hands-on experience building REST APIs, containerized app
 <p align="center">
   <i>Open to internship and junior developer opportunities — feel free to reach out! 🙌</i>
 </p>
+
+---
